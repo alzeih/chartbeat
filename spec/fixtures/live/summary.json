@@ -1,0 +1,32 @@
+{
+   "n" : {
+      "type" : "numeric",
+      "data" : {
+         "sumOfSquares" : 19,
+         "min" : 0,
+         "observations" : 126,
+         "max" : 2,
+         "nzObservations" : 19,
+         "sum" : 19
+      }
+   },
+   "r" : {
+      "type" : "string",
+      "data" : {
+         "" : 28,
+         "http://anotherreferer.com" : 3,
+         "http://referer.somesite.com" : 12
+      }
+   },
+   "I" : {
+      "type" : "numeric",
+      "data" : {
+         "sumOfSquares" : 103,
+         "min" : 0,
+         "observations" : 126,
+         "max" : 2,
+         "nzObservations" : 103,
+         "sum" : 103
+      }
+   }
+}

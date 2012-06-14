@@ -1,0 +1,49 @@
+{
+   "summary" : {
+      "domload" : 340,
+      "idle" : 12,
+      "return" : 2,
+      "people" : 92,
+      "newToPage" : 0,
+      "read" : 49,
+      "new" : 90,
+      "connspeed" : 275,
+      "write" : 31
+   },
+   "titles" : {
+      "chartbeat.com/" : "Welcome to Chartbeat"
+   },
+   "pages_timestamp" : "02/04/2009 04:10 pm",
+   "historical" : true,
+   "active" : [
+      {
+         "position" : [
+            "0.0764"
+         ],
+         "read" : 14,
+         "path" : "chartbeat.com/",
+         "total" : 1,
+         "idle" : 25,
+         "write" : 12
+      }
+   ],
+   "recent" : [
+      {
+         "country" : "US",
+         "longitude" : -77.1234987427,
+         "count" : "4",
+         "domload" : "4123",
+         "utc" : 1232037424,
+         "path" : "chartbeat.com/",
+         "state" : "write",
+         "latitude" : 38.8150916399,
+         "id" : "b6jddonjydohljqk",
+         "referer" : ""
+      }
+   ],
+   "referers" : {
+      "" : {
+         "" : 1
+      }
+   }
+}

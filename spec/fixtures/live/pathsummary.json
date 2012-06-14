@@ -1,0 +1,62 @@
+{
+   "/signup" : {
+      "n" : {
+         "type" : "numeric",
+         "data" : {
+            "sumOfSquares" : 0,
+            "min" : 0,
+            "observations" : 1,
+            "max" : 0,
+            "nzObservations" : 0,
+            "sum" : 0
+         }
+      },
+      "r" : {
+         "type" : "string",
+         "data" : {
+            "" : 1
+         }
+      },
+      "I" : {
+         "type" : "numeric",
+         "data" : {
+            "sumOfSquares" : 38,
+            "min" : 0,
+            "observations" : 46,
+            "max" : 1,
+            "nzObservations" : 38,
+            "sum" : 38
+         }
+      }
+   },
+   "/contact" : {
+      "n" : {
+         "type" : "numeric",
+         "data" : {
+            "sumOfSquares" : 0,
+            "min" : 0,
+            "observations" : 1,
+            "max" : 0,
+            "nzObservations" : 0,
+            "sum" : 0
+         }
+      },
+      "r" : {
+         "type" : "string",
+         "data" : {
+            "" : 1
+         }
+      },
+      "I" : {
+         "type" : "numeric",
+         "data" : {
+            "sumOfSquares" : 38,
+            "min" : 0,
+            "observations" : 46,
+            "max" : 1,
+            "nzObservations" : 38,
+            "sum" : 38
+         }
+      }
+   }
+}

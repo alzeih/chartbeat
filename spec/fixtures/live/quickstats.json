@@ -1,0 +1,37 @@
+{
+   "visits" : 278,
+   "search" : 7,
+   "direct" : 129,
+   "visit" : 60,
+   "domload" : 7000,
+   "social" : 28,
+   "idle" : 245,
+   "people" : 278,
+   "toppages" : [
+      {
+         "path" : "avc.com/a_vc/2010/09/outsourcing.html",
+         "visitors" : 123
+      },
+      {
+         "path" : "avc.com/",
+         "visitors" : 38
+      },
+      {
+         "path" : "avc.com/a_vc/",
+         "visitors" : 19
+      },
+      {
+         "path" : "avc.com/a_vc/mba-mondays/",
+         "visitors" : 12
+      },
+      {
+         "path" : "avc.com/a_vc/2010/08/what-a-ceo-does.html",
+         "visitors" : 10
+      }
+   ],
+   "read" : 31,
+   "new" : 73,
+   "internal" : 68,
+   "write" : 2,
+   "links" : 30
+}

@@ -1,0 +1,22 @@
+[
+   {
+      "dynthreshold" : "",
+      "threshold" : 50,
+      "value" : 51,
+      "time" : "2009-01-06 01:37",
+      "metric" : "people",
+      "direction" : "above",
+      "seconds" : 1254426208,
+      "url" : "chartbeat.com"
+   },
+   {
+      "dynthreshold" : "max",
+      "threshold" : 50,
+      "value" : 51,
+      "time" : "2009-01-23 12:47",
+      "metric" : "people",
+      "direction" : "above",
+      "seconds" : 1254426208,
+      "url" : "chartbeat.com"
+   }
+]

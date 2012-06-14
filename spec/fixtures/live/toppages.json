@@ -1,0 +1,17 @@
+[
+   {
+      "path" : "domain.com/location/of/page.html",
+      "visitors" : 14,
+      "i" : "My Webpage title"
+   },
+   {
+      "path" : "domain.com/about",
+      "visitors" : 7,
+      "i" : "About Us"
+   },
+   {
+      "path" : "domain.com/contact",
+      "visitors" : 3,
+      "i" : "Contact Us"
+   }
+]

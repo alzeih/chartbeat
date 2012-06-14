@@ -1,0 +1,53 @@
+{
+   "W" : {
+      "type" : "numeric",
+      "data" : {
+         "histogram" : [
+            122,
+            0,
+            0,
+            0
+         ],
+         "sumOfSquares" : 8,
+         "min" : 0,
+         "observations" : 122,
+         "max" : 2,
+         "nzObservations" : 8,
+         "sum" : 8
+      }
+   },
+   "R" : {
+      "type" : "numeric",
+      "data" : {
+         "histogram" : [
+            122,
+            0,
+            0,
+            0
+         ],
+         "sumOfSquares" : 11,
+         "min" : 0,
+         "observations" : 122,
+         "max" : 2,
+         "nzObservations" : 11,
+         "sum" : 11
+      }
+   },
+   "I" : {
+      "type" : "numeric",
+      "data" : {
+         "histogram" : [
+            122,
+            0,
+            0,
+            0
+         ],
+         "sumOfSquares" : 103,
+         "min" : 0,
+         "observations" : 122,
+         "max" : 2,
+         "nzObservations" : 103,
+         "sum" : 103
+      }
+   }
+}
